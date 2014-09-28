@@ -7,16 +7,39 @@ I'm trying to keep track of all the birds I've seen in St James' Park.
 
 Some of the ducks are quite hard to tell apart.
 
-- [Cape Teal](http://en.wikipedia.org/wiki/Cape_teal)
-- [Eider Duck](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/e/eider/index.aspx)
-- [Garganey](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/g/garganey/index.aspx)
-- [Green-winged Teal](http://en.wikipedia.org/wiki/Green-winged_teal)
-- [Laysan Teal](http://en.wikipedia.org/wiki/Laysan_duck)
-- [Maned Goose](http://en.wikipedia.org/wiki/Australian_wood_duck)
-- [Red-breasted Merganser](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/r/redbreastedmerganser/index.aspx)
-- [Ringed Teal](http://en.wikipedia.org/wiki/Ringed_teal)
-- [Shoveler](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/s/shoveler/index.aspx)
-- [Wood Duck](http://en.wikipedia.org/wiki/Wood_duck)
+#### [Cape Teal](http://en.wikipedia.org/wiki/Cape_teal)
+
+#### [Eider Duck](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/e/eider/index.aspx)
+![Picture of an Eider Duck](http://www.rspb.org.uk/Images/eider_tcm9-17606.jpg?width=530&crop=(300,494,1074,930))
+
+#### [Garganey](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/g/garganey/index.aspx)
+![Picture of a Male Garganey](http://www.rspb.org.uk/Images/garga_tcm9-58552.jpg?width=530&height=298&crop=auto)
+![Picture of a Female Garganey](http://www.rspb.org.uk/Images/GARGANEY_FEMALE_tcm9-58450.gif?width=530&height=298&crop=auto)
+
+#### [Green-winged Teal](http://en.wikipedia.org/wiki/Green-winged_teal)
+![Picture of a Green-winged teal](http://www.birdwatchersdigest.com/site/images/bird_id/green_winged_teal.jpg)
+
+#### [Laysan Teal](http://en.wikipedia.org/wiki/Laysan_duck)
+![Picture of a Laysan Teal](http://upload.wikimedia.org/wikipedia/commons/1/18/Male_Laysan_Duck.jpg)
+
+#### [Maned Goose](http://en.wikipedia.org/wiki/Australian_wood_duck)
+![Picture of a Maned Goose](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTo5YmkbhFQk24qU0ZjYmAenBPM-vQsoTTksdSp9iZZvQKOEiv8iw)
+
+#### [Red-breasted Merganser](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/r/redbreastedmerganser/index.aspx)
+![Picture of a Male red-breasted merganser](http://www.rspb.org.uk/Images/rebme_tcm9-18212.jpg?width=530&crop=(388,612,1226,1084))
+![Picture of a Female bred-breaster merganser](http://www.rspb.org.uk/Images/redbreastedmerganser_female_tcm9-153241.jpg?width=530&crop=(198,158,838,518))
+
+#### [Ringed Teal](http://en.wikipedia.org/wiki/Ringed_teal)
+![Picture of a male ringed-teal](http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Callonetta_leucophrys_%28male%29_-_Ringed_Teal%2C_London_Wetlands_Centre%2C%2C_UK_-_Diliff.jpg/600px-Callonetta_leucophrys_%28male%29_-_Ringed_Teal%2C_London_Wetlands_Centre%2C%2C_UK_-_Diliff.jpg)
+![Picture of a female ringed-teal](http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Callonetta_leucophrys_%28female%29_-_Ringed_Teal%2C_London_Wetlands_Centre%2C%2C_UK_-_Diliff.jpg/600px-Callonetta_leucophrys_%28female%29_-_Ringed_Teal%2C_London_Wetlands_Centre%2C%2C_UK_-_Diliff.jpg)
+
+#### [Shoveler](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/s/shoveler/index.aspx)
+![Picture of a male shoveler](http://www.rspb.org.uk/Images/shove_tcm9-17031.jpg?width=530&crop=(360,570,1256,1074))
+![Picture of a female shoveler](http://www.rspb.org.uk/Images/shoveler_female_tcm9-153247.jpg?width=530&crop=(288,406,942,774))
+
+#### [Wood Duck](http://en.wikipedia.org/wiki/Wood_duck)
+![Picture of a Wood Duck](http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Wood_Duck_in_profile_%28Aix_sponsa%29.jpg/2880px-Wood_Duck_in_profile_%28Aix_sponsa%29.jpg)
+
 
 ### I've seen these
 
