@@ -8,6 +8,7 @@ I'm trying to keep track of all the birds I've seen in St James' Park.
 Some of the ducks are quite hard to tell apart.
 
 #### [Cape Teal](http://en.wikipedia.org/wiki/Cape_teal)
+![Picture of a Cape Teal](http://upload.wikimedia.org/wikipedia/commons/7/79/AnasCapensisSmit.jpg)
 
 #### [Eider Duck](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/e/eider/index.aspx)
 ![Picture of an Eider Duck](http://www.rspb.org.uk/Images/eider_tcm9-17606.jpg?width=530&crop=(300,494,1074,930))
