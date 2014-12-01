@@ -17,9 +17,6 @@ Some of the ducks are quite hard to tell apart.
 ![Picture of a Male Garganey](http://www.rspb.org.uk/Images/garga_tcm9-58552.jpg?width=530&height=298&crop=auto)
 ![Picture of a Female Garganey](http://www.rspb.org.uk/Images/GARGANEY_FEMALE_tcm9-58450.gif?width=530&height=298&crop=auto)
 
-#### [Green-winged Teal](http://en.wikipedia.org/wiki/Green-winged_teal)
-![Picture of a Green-winged teal](http://www.birdwatchersdigest.com/site/images/bird_id/green_winged_teal.jpg)
-
 #### [Laysan Teal](http://en.wikipedia.org/wiki/Laysan_duck)
 ![Picture of a Laysan Teal](http://upload.wikimedia.org/wikipedia/commons/1/18/Male_Laysan_Duck.jpg)
 
@@ -44,7 +41,6 @@ Some of the ducks are quite hard to tell apart.
 
 ### I've seen these
 
-
 - [Bahama Pintail](http://en.wikipedia.org/wiki/White-cheeked_pintail)
 - [Bar-headed Goose](http://en.wikipedia.org/wiki/Bar-headed_goose)
 - [Barnacle Goose](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/b/barnaclegoose/index.aspx)
@@ -56,10 +52,12 @@ Some of the ducks are quite hard to tell apart.
 - [Coot](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/c/coot/)
 - [Cormorant](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/c/cormorant/index.aspx)
 - [Eastern White Pelican](http://en.wikipedia.org/wiki/Great_white_pelican)
+- [Egyptian Goose](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/e/egyptiangoose/index.aspx)
 - [Fulvous Tree Duck](http://en.wikipedia.org/wiki/Fulvous_whistling_duck)
 - [Gadwall](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/g/gadwall/index.aspx)
 - [Goldeneye](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/g/goldeneye/index.aspx)
 - [Great Crested Grebe](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/g/greatcrestedgrebe/index.aspx)
+- [Green-winged Teal](http://en.wikipedia.org/wiki/Green-winged_teal)
 - [Grey Heron](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/g/greyheron/index.aspx)
 - [Greylag Goose](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/g/greylaggoose/index.aspx)
 - [Hawaiian Goose](http://www.birdlife.org/datazone/speciesfactsheet.php?id=383)
@@ -79,11 +77,6 @@ Some of the ducks are quite hard to tell apart.
 - [Ruddy Shelduck](http://en.wikipedia.org/wiki/Ruddy_shelduck)
 - [Shelduck](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/s/shelduck/index.aspx)
 - [Smew](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/s/smew/index.aspx)
-	  - I've only seen females
 - [Tufted Duck](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/t/tuftedduck/index.aspx)
 - [White-headed duck](http://www.rspb.org.uk/forprofessionals/policy/species/nonnative/ruddyducks.aspx)
-  - Could have been a ruddy duck I saw – I hope not
 - [Wigeon](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/w/wigeon/index.aspx)
-
-### I saw these and they aren't on the list at the park
-- [Egyptian Goose](http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/e/egyptiangoose/index.aspx)
